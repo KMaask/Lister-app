@@ -1,0 +1,119 @@
+#pen {
+    margin-top: 40%;
+    width: 100%;
+    height: 100%;
+}
+
+#start{ background-color: #6be6ff;}
+
+
+/* Nimekirjad */
+
+.toggle.ui-btn {
+    background-color: #142F58;
+    color: #FDFF88;
+    border: 1px solid green;
+}
+
+.ui-btn.ui-btn-icon-notext.ui-icon-carat-r {
+    background-color: #56b077;
+}
+
+/* Shared colors */
+
+#loader,#home, #check, #view  {
+    background-color: #142F58;
+}
+
+#header {
+    background-color: black;
+    color: white;
+    border: 0;
+}
+
+
+/* view */
+
+#remove, #back {
+    height: 40%;
+    width: 6%;
+    margin-right: 0;
+    background-color: black;
+    border: none;
+}
+
+#delete {
+    height: 100%;
+    width: 90%;
+    margin-right: 0;
+}
+
+#arrow {
+    height: 100%;
+    width: 100%;
+    margin-right: 0;
+}
+
+/* Check */
+
+#list li {
+    display:flex;
+    background-color: #142F58;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 1vh;
+    
+    font-family: 'Courgette', cursive;
+font-family: 'PT Sans Caption', sans-serif;
+
+}
+
+input[type="checkbox"] {
+    margin-left: auto; 
+    margin-right: 0;
+    width: 10%;
+}
+
+input[type="checkbox"]{
+  width: 3vh;
+  height: 3vh;
+}
+
+#checkbtn {
+    width: 100%;
+    display: inline-block;
+    margin-top: 70%;
+    margin-bottom: 10%;
+    text-align: center;
+    
+    
+}
+
+#change {
+    font-family: "Monaco", monospace;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #1ea8f7;
+    height: 3vh;
+    width: 30%;
+    display: inline-block;
+}
+
+#save {
+    
+    background-color: #00766F;
+    color: #fff;
+    font-family: "Monaco", monospace;
+    font-size: 20px;
+    border: 2px solid #13b082;
+    height: 3vh;
+    width: 30%;
+    display: inline-block;
+}
+
+
+
+
+
+
